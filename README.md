@@ -40,15 +40,16 @@ I am Mohammad Zakwan Zuhairie bin Mohd Zain, currently pursuing a Bachelor's deg
 
 - <h5>Able to give good cooperation between group member so our work are able run smoothly</h5>
 
-
- 
-- 📫 You can cantact me **mohammad04@graduate.utm.my**
-
-- - 🔭My work [My TIS work](https://github.com/Zakwan06/Zakwan06)
-
-- ⚡ Fun fact **I think I like phychi**
-
 <h3 align="left">Connect with me:</h3>
+ 
+mohammad04@graduate.utm.my
+
+ [ASSIGNMENT](https://github.com/Zakwan06/Zakwan06)
+
+  
+
+
+
 <p align="left">
 </p>
 
