@@ -28,17 +28,17 @@ I am Mohammad Zakwan Zuhairie bin Mohd Zain, currently pursuing a Bachelor's deg
 
 <h3>Time Manangement⏱️</h3>
 
-- <h5>Able to priotize urgent task first before do anything else.I also able to manage time efficiently so</h5>
+- <h5>Able to priotize urgent task first before do anything else.I also able to manage time efficiently so each task will be commpleted at the right time.</h5>
 
 
 <h3>Problem Solving💡</h3>
 
-- <h5> Always try to solve problem with diferrent way</h5>
+- <h5>Always try to solve problem with creative way so we can achieve the best solution of any problem that we face</h5>
 
 
 <h3>Teamwork👨‍💻</h3>
 
-- <h5>Can work in group</h5>
+- <h5>Able to give good cooperation between group member so our work are able run smoothly</h5>
 
 
  
