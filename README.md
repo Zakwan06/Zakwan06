@@ -28,7 +28,7 @@ I am Mohammad Zakwan Zuhairie bin Mohd Zain, currently pursuing a Bachelor's deg
 
 <h3>Time Manangement⏱️</h3>
 
-- <h5>Able to priotize task and manage time efficiently</h5>
+- <h5>Able to priotize urgent task first before do anything else.I also able to manage time efficiently so</h5>
 
 
 <h3>Problem Solving💡</h3>
@@ -39,6 +39,8 @@ I am Mohammad Zakwan Zuhairie bin Mohd Zain, currently pursuing a Bachelor's deg
 <h3>Teamwork👨‍💻</h3>
 
 - <h5>Can work in group</h5>
+
+
  
 - 📫 You can cantact me **mohammad04@graduate.utm.my**
 
