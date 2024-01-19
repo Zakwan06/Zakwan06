@@ -44,7 +44,7 @@ I am Mohammad Zakwan Zuhairie bin Mohd Zain, currently pursuing a Bachelor's deg
  
 - 📫 You can cantact me **mohammad04@graduate.utm.my**
 
-- - 🔭My work [My TIS work]([https://github.com/Zakwan06/Readme.md.git](https://github.com/Zakwan06/Zakwan06))
+- - 🔭My work [My TIS work](https://github.com/Zakwan06/Zakwan06)
 
 - ⚡ Fun fact **I think I like phychi**
 
