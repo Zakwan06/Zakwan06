@@ -44,7 +44,7 @@ I am Mohammad Zakwan Zuhairie bin Mohd Zain, currently pursuing a Bachelor's deg
  
 mohammad04@graduate.utm.my
 
-<h4></h4:>
+<h3></h3:>
 
  [ASSIGNMENT](https://github.com/Zakwan06/Zakwan06)
 
@@ -52,25 +52,25 @@ mohammad04@graduate.utm.my
 
 <h5>The NALI program gives us the opportunity to gain more knowledge and encourage us to think more innovatively. Throughout the program we were exposed to many ideas that really caught our attention. As an improvement we hope that the material provided is easier to understand.</h5>
 
- <h4></h4:> 
+ <h3></h3:> 
  
 [Industrial Talk on Overview of ICT Jobs in Clarity Techworks](https://github.com/Zakwan06/Zakwan06/blob/main/Overview%20of%20ICT%20Jobs%20(Group%208).png)
 
 <h5>Gain insight into the working life of an organization to enhance our understanding of a job and its field of work.As improvement I think they should bring us to their office so we can see ourself their working inviroment</h5>
 
-<h4></h4:>
+<h3></h3:>
 
 [Industrial Visit to UTM Digital](https://github.com/Zakwan06/Zakwan06/blob/main/ASSIGNMENT%203%20-%20G08%20-%20S07.pdf)
 
 <h5>In this visit we can see the servers closely that makes this visit is  a very valuable experience to us. We think as an improvement they should be doing tours in smaller group so the student movement more smoothly.</h5>
 
-<h4></h4:>
+<h3></h3:>
 
 [Industrial Talk on System Development @ Credence (TM Subsidiary)](https://github.com/Zakwan06/Zakwan06/blob/main/ASSIGNMENT%204.pdf)
 
 <h5>Students are exposed to the challenges that must be faced in working inviroment.They also give a few tips for us to adapt in the future.For improvement they should expose their work more</h5>
 
-<h4>PC Assemble</h4>
+<h3>PC Assemble</h3>
 <h5>In session we are able to know a few electronic part in a PC.I are also get opportunity to split and connect it back.For improvement I think this session should be held more than one time</h5>
 
 <p align="left">
