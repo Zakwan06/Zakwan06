@@ -73,7 +73,7 @@ mohammad04@graduate.utm.my
 <h5>Students are exposed to the challenges that must be faced in working inviroment.They also give a few tips for us to adapt in the future.For improvement they should expose their work more</h5>
 
 <h3>PC Assemble</h3>
-<h5>In session we are able to know a few electronic part in a PC.I are also get opportunity to split and connect it back.For improvement I think this session should be held more than one time</h5>
+<h5>In session we are able to know a few electronic part in a PC.We also get opportunity to split and connect it back.For improvement I think this session should be held more than one time</h5>
 
 <p align="left">
 </p>
