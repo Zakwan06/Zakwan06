@@ -80,7 +80,7 @@ mohammad04@graduate.utm.my
 
 [Design Thinking]([https://github.com/Zakwan06/Zakwan06/blob/main/ASSIGNMENT%204.pdf](https://github.com/Zakwan06/Zakwan06/blob/main/TIS%20report%20Design%20Thinking.pdf))
 
-<h5>Students are exposed to the challenges that must be faced in working inviroment.They also give a few tips for us to adapt in the future.For improvement they should expose their work more</h5>
+<h5>This task train use to create a solution of any problem that been face by user.Student should be introduce of a betterr platform to make discussion </h5>
 
 <p align="left">
 </p>
