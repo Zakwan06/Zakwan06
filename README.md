@@ -78,7 +78,7 @@ mohammad04@graduate.utm.my
 
 <h3></h3:>
 
-[Design Thinking]([https://github.com/Zakwan06/Zakwan06/blob/main/ASSIGNMENT%204.pdf(https://github.com/Zakwan06/Zakwan06/blob/main/TIS%20report%20Design%20Thinking.pdf))
+[Design Thinking](https://github.com/Zakwan06/Zakwan06/blob/main/Design%20Thinking.pdf)
 
 <h5>This task train use to create a solution of any problem that been face by user.Student should be introduce of a betterr platform to make discussion </h5>
 
