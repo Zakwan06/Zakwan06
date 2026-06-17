@@ -80,7 +80,6 @@ I am passionate about software development, computer graphics, and interactive d
 
 ### 🧠 Core Skills
 - Problem solving & algorithmic thinking
-- Software development lifecycle (SDLC) understanding
 - Team collaboration in group projects
 - Time management and task prioritization
 
