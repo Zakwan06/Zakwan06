@@ -52,6 +52,8 @@ Able to work effectively in a team and communicate well with group members.
 - [UTM Digital Industrial Visit](https://github.com/Zakwan06/Zakwan06/blob/main/ASSIGNMENT%203%20-%20G08%20-%20S07.pdf)
 - [System Development Talk – Credence (TM Subsidiary)](https://github.com/Zakwan06/Zakwan06/blob/main/ASSIGNMENT%204.pdf)
 - [Design Thinking Project](https://github.com/Zakwan06/Zakwan06/blob/main/Design%20Thinking.pdf)
+- [Campus Closet](https://github.com/SECJ3623-MAP-25261/map-group-project-mimo)
+- 
 
 ---
 
