@@ -51,11 +51,12 @@ I am passionate about software development, computer graphics, and interactive d
 - GitHub: https://github.com/Mailqeru/RTCG-LAB1
 
 ### 📂 Other Academic Work
-- NALI 2023 Industrial Visit Report  
-- ICT Jobs Talk – Clarity Techworks  
-- UTM Digital Industrial Visit  
-- System Development Talk – Credence (TM Subsidiary)  
-- Design Thinking Project  
+- [Assignment Repository](https://github.com/Zakwan06/Zakwan06)
+- [NALI 2023 Industrial Visit Report](https://github.com/Zakwan06/Zakwan06/blob/main/NALI%202023%20REPORT%20-%20S07%20-%20G08-1.pdf)
+- [ICT Jobs Talk – Clarity Techworks](https://github.com/Zakwan06/Zakwan06/blob/main/Overview%20of%20ICT%20Jobs%20(Group%208).png)
+- [UTM Digital Industrial Visit](https://github.com/Zakwan06/Zakwan06/blob/main/ASSIGNMENT%203%20-%20G08%20-%20S07.pdf)
+- [System Development Talk – Credence (TM Subsidiary)](https://github.com/Zakwan06/Zakwan06/blob/main/ASSIGNMENT%204.pdf)
+- [Design Thinking Project](https://github.com/Zakwan06/Zakwan06/blob/main/Design%20Thinking.pdf)
 
 ---
 
@@ -69,27 +70,19 @@ I am passionate about software development, computer graphics, and interactive d
 
 ### 🌐 Web Development
 - Front-end development (HTML, CSS, JavaScript)
-- Basic backend exposure (ASP.NET / C# concepts)
+- Basic understanding of web development concepts
 - Git & GitHub version control
 
 ### 🎮 Graphics & Multimedia
 - Computer graphics fundamentals (OpenGL exposure)
 - Basic game development concepts (Unity exposure)
-- Adobe Photoshop for image editing
+- Python for image processing (basic level)
 
 ### 🧠 Core Skills
 - Problem solving & algorithmic thinking
 - Software development lifecycle (SDLC) understanding
 - Team collaboration in group projects
 - Time management and task prioritization
-
----
-
-## 📚 Currently Learning
-- ASP.NET & C# web development
-- Backend development concepts
-- REST API fundamentals
-- Improving full-stack development skills
 
 ---
 
